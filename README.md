@@ -24,9 +24,9 @@ A customizable and easy-to-use **Password Generator** built with **React.js**. T
 
 1. Clone this repository:
     ```bash
-  git clone https://github.com/your-username/password-generator.git
-  cd password-generator
-  npm start
+    git clone https://github.com/your-username/password-generator.git
+    cd password-generator
+    npm start
 
 2. Use the app:
   - Choose your desired password length
