@@ -22,13 +22,13 @@ A customizable and easy-to-use **Password Generator** built with **React.js**. T
 
 ##  How to Run Locally
 
-- 1. Clone this repository:
+1. Clone this repository:
     ```bash
   git clone https://github.com/your-username/password-generator.git
   cd password-generator
   npm start
 
-- 2. Use the app:
+2. Use the app:
   - Choose your desired password length
   - Check the options: Uppercase, Lowercase, Numbers, Symbols
   - Click "Generate Password"
